@@ -1,0 +1,2 @@
+Problem: Beautiful XOR
+Link: https://codeforces.com/contest/2162/problem/C
