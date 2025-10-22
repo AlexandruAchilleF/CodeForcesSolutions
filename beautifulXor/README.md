@@ -13,6 +13,7 @@ for (i = 50; i >= 0; i--) {
 for (i = 50; i >= 0; i--) {
     if ((1LL << i) & b) { hb = i; break; }
 }
+```
 ## 💡 Key Observation
 
 The **highest set bit (MSB)** of a number can **never increase** after applying `a = a XOR x` with `x ≤ a`.  
